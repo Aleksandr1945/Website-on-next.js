@@ -1,0 +1,26 @@
+.blokPrice {
+    display: flex;
+    text-align: center;
+    flex-direction: column;;
+    border: 2px solid rgb(202, 13, 240);
+    margin: 5%;
+    width: 250px;
+    border-radius: 10px;
+}
+
+.button {
+    margin-left: 29%;
+    margin-bottom: 10px;
+    width: 100px;
+    text-align: center;
+    color: black;
+    background-color: rgb(191, 10, 236);
+    border-radius: 5px;
+    font-size: 18px;
+    border: 2px solid rgb(42, 230, 17);
+    transition: .2s;
+}
+
+.button:hover {
+    background-color: blue;
+}

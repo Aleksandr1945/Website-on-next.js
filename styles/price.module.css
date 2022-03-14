@@ -1,0 +1,12 @@
+.content {
+    min-height: calc(100vh - 60px);
+}
+
+.price {
+    text-align: center;
+}
+
+.blok {
+    display: flex;
+    flex-wrap: wrap;
+}

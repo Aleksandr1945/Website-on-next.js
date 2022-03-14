@@ -1,0 +1,14 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.content {
+  min-height: calc(100vh - 60px);
+}
+
+
+
+

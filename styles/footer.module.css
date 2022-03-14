@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 100%; */
+    background-color: rgb(187, 185, 183);
+    height: 60px;
+}
+
+.link {
+    padding-top:20px;
+    padding-right: 2%;
+    text-align: center;
+}
+
+.link:hover {
+    color: aqua;
+}
